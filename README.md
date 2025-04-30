@@ -4,11 +4,6 @@
 
 This project investigates the **impact of weather conditions** on **bike-share usage patterns** in Central Chicago. By leveraging historical data and API integrations, we aim to uncover **key trends, predict ridership,** and provide **actionable insights** for urban planning and operational improvements.
 
-### Team Members
-	•	Jitesh Makan
-	•	Lovecy Thomas
-	•	Sean Schallberger
-
 ## Objectives
 1.	**Analyze** the relationship between weather conditions (e.g., temperature, precipitation, wind speed) and bike-share usage.
 2.	**Predict ride counts** based on weather conditions using regression models and real-time API data.
